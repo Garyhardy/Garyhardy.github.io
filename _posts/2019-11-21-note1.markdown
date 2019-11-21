@@ -1,0 +1,175 @@
+---
+layout: post
+title:  "Notes about AZ-120"
+date:   2019-11-21 22:19:43 +0100
+categories: jekyll update
+---
+
+You will find here all materials related to SAP workload migration to Azure.
+
+> this post will be updated on a regular basis. lastest update : 21/11/2019
+
+<!--more-->
+
+
+## Main links 
+https://techcommunity.microsoft.com/t5/Running-SAP-Applications-on-the/SAP-on-Azure-General-Update-March-2019/ba-p/377456
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-deployment-checklist
+
+https://azure.microsoft.com/en-us/blog/sap-on-azure-designing-for-efficiency-operations/
+
+## Specific links
+
+to be updated
+
+## SAP notes to read
+
+| number | what is inside |
+| ddd | sap sizing |
+
+> ceci est une citation
+
+## Content of AZ-120
+
+### Migrate SAP Workloads to Azure (10-15%)
+
+Create an inventory of existing SAP landscapes
+
+May include but is not limited to:
+* network inventory
+* security inventory
+* computing inventory
+* operations system inventory
+* resiliency and availability inventory
+* SAP Landscape architecture
+* SAP workload performance SLA and metrics
+* migration considerations
+
+Design a migration strategy
+* certified and support SAP Hana hardware directory
+* design criteria for Tailored Datacenter Integration (TDI) v4 and v5 solutions
+* databox with import and export
+* HANA System Replication (HSR)
+* ASR for SAP
+* backup and restore methods and solutions
+* infrastructure optimization for migration
+
+### Design an Azure Solution to Support SAP Workloads (20-25%)
+
+Design a core infrastructure solution in Azure to support SAP workloads
+* network topology requirements
+* security requirements
+* virtual or bare metal
+* operating system requirements
+* support SAP version
+* storage requirements
+* proximity placement group
+* infrastructure requirements
+
+Design Azure infrastructure services to support SAP workloads
+* backup and restoration requirements
+* SLA/High Availability
+* data protection (EFS, LRS/GRS, Availability Zones)
+* compliance
+* monitoring
+* licensing
+* application interfaces
+* dependencies
+
+Design a resilient Azure solution to support SAP workloads
+May include but not limited to:
+* HA models supported in HANA (N+N, N+0 and N+1)
+* application servers
+* SAP Central services
+* availability sets
+* availability zones
+* Disaster Recovery (DR) with Hero Regions
+* Database HA
+
+### Build and Deploy Azure SAP Workloads (35-40%)
+
+Automate deployment of Virtual Machines (VMs)
+May include but not limited to:
+* Azure Resource Manager (ARM) template
+* automated configuration of VM
+* scripting with automation tools, including script development, script modification, and
+deployment dependencies
+
+Implement and manage virtual networking
+May include but not limited to:
+* IDS/IPS for Azure
+* routing fundamentals
+* subnetting strategy
+* isolation and segmentation for SAP landscape
+
+Manage access and authentication on Azure
+May include but not limited to:
+* custom domains
+* Azure AD Identity Protection
+* Azure AD join
+* enterprise state roaming
+* conditional access policies
+* Role-based access control (RBAC)
+* service principal
+* just in time access
+
+Implement and manage identities
+May include but not limited to:
+* Azure AD Connect
+* AD Federation and single sign-on
+* LDAP/Kerberos/SSH
+* Linux VMs Active Directory domain membership mechanism
+
+Monitor SAP workloads on Azure
+May include but not limited to:
+* Azure Enhanced Monitoring Extension for SAP
+* Azure Monitor
+
+### Validate Azure Infrastructure for SAP Workloads (10-15%)
+
+Perform infrastructure validation check
+May include but not limited to:
+* JMeter, Avalanch, Load Runner
+* test implementation for SAP workloads
+* verify network performance and throughput
+* verify storage
+* HANA HW Configuration Check Tool (HWCCT)
+* FIO, AnyDB
+
+Perform operational readiness check
+May include but not limited to:
+* backup and restore
+* high availability checks
+* failover test
+* DR test
+* print test
+
+### Operationalize Azure SAP Architecture (10-15%)
+
+Optimize performance
+
+May include but not limited to:
+* SAP workloads on Azure using ABAPmeter
+* storage structure
+* SAP workloads on Azure support pre-requisites
+* scheduled maintenance for planned outages
+* recovery plan for unplanned outages
+* SAP application and infrastructure housekeeping
+* bandwidth adjustment for ExpressRoute
+* IPtables and GlobalReach for HANA Large Instances (HLI)
+
+Migrate SAP workloads to Azure
+May include but not limited to:
+* migration strategy
+* Azure Site Recovery (ASR)
+* private and public IP addresses
+* network routes
+* network interface
+* subnets
+* virtual network
+* storage configuration
+* source and target environments preparation
+* backup and restore of data

@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes about AZ-120"
 date:   2019-11-21 22:19:43 +0100
-categories: jekyll update
+categories: Azure
 ---
 
 You will find here all materials related to SAP workload migration to Azure.
@@ -29,6 +29,16 @@ to be updated
 
 | number | what is inside |
 | ddd | sap sizing |
+| 1928533 | to add |
+| 2015553 | to add |
+| 2178632 | to add |
+| 1999351 | to add |
+| 2287140 | to add |
+| 2243692 | to add |
+| 1984787 | to add |
+| 2002167 | to add |
+|2069760 | to add |
+
 
 > ceci est une citation
 

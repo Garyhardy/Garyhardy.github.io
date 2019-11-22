@@ -13,13 +13,13 @@ You will find here all materials related to SAP workload migration to Azure.
 
 
 ## Main links 
-https://techcommunity.microsoft.com/t5/Running-SAP-Applications-on-the/SAP-on-Azure-General-Update-March-2019/ba-p/377456
+<https://techcommunity.microsoft.com/t5/Running-SAP-Applications-on-the/SAP-on-Azure-General-Update-March-2019/ba-p/377456>
 
-https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started>
 
-https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-deployment-checklist
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-deployment-checklist>
 
-https://azure.microsoft.com/en-us/blog/sap-on-azure-designing-for-efficiency-operations/
+<https://azure.microsoft.com/en-us/blog/sap-on-azure-designing-for-efficiency-operations/>
 
 ## Specific links
 

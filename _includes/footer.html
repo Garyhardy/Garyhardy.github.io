@@ -4,6 +4,9 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
+       <div class="social-links">
+        <p> {%- include social.html -%}</p>
+      </div>
       <div class="footer-col one-half">
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
@@ -17,10 +20,6 @@
 
       <div class="footer-col one-half">
         <p>{{- site.description | escape -}}</p>
-      </div>
-
-      <div class="social-links">
-        <p> {%- include social.html -%}</p>
       </div>
     </div>
 

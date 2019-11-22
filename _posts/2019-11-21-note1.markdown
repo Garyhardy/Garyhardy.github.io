@@ -42,6 +42,14 @@ to be updated
 
 > ceci est une citation
 
+## Study fields
+
+Migrate SAP Workloads to Azure (10-15%)
+Design an Azure Solution to Support SAP Workloads (20-25%)
+Build and Deploy Azure SAP Workloads (35-40%)
+Validate Azure Infrastructure for SAP Workloads (10-15%)
+Operationalize Azure SAP Architecture (10-15%)
+
 ## Content of AZ-120
 
 ### Migrate SAP Workloads to Azure (10-15%)

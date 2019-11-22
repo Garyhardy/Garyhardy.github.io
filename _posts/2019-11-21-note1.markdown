@@ -28,6 +28,7 @@ to be updated
 ## SAP notes to read
 
 | number | what is inside |
+| ------- | ------- |
 | ddd | sap sizing |
 
 | 1928533 | to add |

@@ -27,7 +27,7 @@ url: "garyhardy.github.io" # the base hostname & protocol for your site, e.g. ht
 social_links:
     twitter: gary_hardy
     github:  gary.hardy
-    linkedin: gary-hardy-600848    
+    linkedin: gary-hardy-0600848    
 # Build settings
 theme: minima
 plugins:

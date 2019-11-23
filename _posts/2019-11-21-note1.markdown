@@ -24,7 +24,9 @@ You will find here all materials related to SAP workload migration to Azure.
 ## Best practices for migration
 
 <https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-1/>
+
 <https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-2/>
+
 <https://azure.microsoft.com/en-us/blog/best-practices-in-migrating-sap-applications-to-azure-part-3/>
 
 ## Sizing considerations
@@ -34,12 +36,15 @@ You will find here all materials related to SAP workload migration to Azure.
 ## Migration
 
 <https://azure.microsoft.com/mediahandler/files/resourcefiles/migration-methodologies-for-sap-on-azure/Migration%20Methodologies%20for%20SAP%20on%20Azure.pdf>
+
 <https://blogs.sap.com/2013/11/29/database-migration-option-dmo-of-sum-introduction/>
 
 ## Architecture diagrams
 
 <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-s4hana>
+
 <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-netweaver>
+
 <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances>
 
 ## Storage specifications
@@ -49,7 +54,9 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-op
 ## Automation
 
 <https://azure.microsoft.com/en-us/blog/automating-sap-deployments-in-microsoft-azure-using-terraform-and-ansible/>
+
 <https://cal.sap.com/catalog#/solutions>
+
 https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 
 

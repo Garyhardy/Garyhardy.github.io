@@ -53,7 +53,7 @@ https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 
 | number | what is inside |
 | ------- | ------- |
-| 1928533 | to add |
+| 1928533 |  minimum OS releases supported on Azure VM. minimum database releases required for most non-HANA databases. SAP sizing for SAP-supported Azure VM types.|
 | 2015553 | to add |
 | 2178632 | to add |
 | 1999351 | to add |

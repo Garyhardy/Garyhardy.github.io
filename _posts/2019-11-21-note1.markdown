@@ -46,6 +46,7 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-op
 
 <https://azure.microsoft.com/en-us/blog/automating-sap-deployments-in-microsoft-azure-using-terraform-and-ansible/>
 <https://cal.sap.com/catalog#/solutions>
+https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 
 
 ## Azure related SAP notes to read

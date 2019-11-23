@@ -35,6 +35,7 @@ You will find here all materials related to SAP workload migration to Azure.
 ## Architecture diagrams
 
 <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-s4hana>
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-netweaver
 
 ## Storage specifications
 

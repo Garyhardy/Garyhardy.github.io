@@ -12,7 +12,7 @@ You will find here all materials related to SAP workload migration to Azure.
 <!--more-->
 
 
-## Main links 
+## General links 
 <https://techcommunity.microsoft.com/t5/Running-SAP-Applications-on-the/SAP-on-Azure-General-Update-March-2019/ba-p/377456>
 
 <https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/get-started>
@@ -21,9 +21,20 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://azure.microsoft.com/en-us/blog/sap-on-azure-designing-for-efficiency-operations/>
 
-## Specific links
+## Best pratice for migration
 
-to be updated
+<https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-1/>
+<https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-2/>
+<https://azure.microsoft.com/en-us/blog/best-practices-in-migrating-sap-applications-to-azure-part-3/>
+
+
+## Migration
+
+<https://azure.microsoft.com/mediahandler/files/resourcefiles/migration-methodologies-for-sap-on-azure/Migration%20Methodologies%20for%20SAP%20on%20Azure.pdf>
+
+## Storage specifications
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage
 
 ## SAP notes to read
 

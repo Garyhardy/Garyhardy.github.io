@@ -27,7 +27,6 @@ https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applicati
 https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-2/
 https://azure.microsoft.com/en-us/blog/best-practices-in-migrating-sap-applications-to-azure-part-3/
 
-
 ## Migration
 
 https://azure.microsoft.com/mediahandler/files/resourcefiles/migration-methodologies-for-sap-on-azure/Migration%20Methodologies%20for%20SAP%20on%20Azure.pdf
@@ -35,6 +34,11 @@ https://azure.microsoft.com/mediahandler/files/resourcefiles/migration-methodolo
 ## Storage specifications
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage
+
+
+## Hana Focus
+
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-hana-availability-overview>
 
 ## SAP notes to read
 

@@ -21,7 +21,7 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://azure.microsoft.com/en-us/blog/sap-on-azure-designing-for-efficiency-operations/>
 
-## Best pratice for migration
+## Best practices for migration
 
 <https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-1/>
 <https://azure.microsoft.com/fr-fr/blog/best-practices-in-migrating-sap-applications-to-azure-part-2/>

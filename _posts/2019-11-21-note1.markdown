@@ -46,7 +46,7 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-op
 
 <https://azure.microsoft.com/en-us/blog/automating-sap-deployments-in-microsoft-azure-using-terraform-and-ansible/>
 
-## SAP notes to read
+## Azure related SAP notes to read
 
 | number | what is inside |
 | ------- | ------- |
@@ -60,6 +60,13 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-op
 | 2002167 | to add |
 | 2069760 | to add |
 
+## SAP related SAP notes to read
+
+SAP Note 1793345 - Sizing for SAP Suite on HANA
+SAP Note 1872170 - Suite on HANA and S/4 HANA sizing report
+SAP Note 2121330 - FAQ: SAP BW on HANA Sizing Report
+SAP Note 1736976 - Sizing Report for BW on HANA
+SAP Note 2296290 - New Sizing Report for BW on HANA
 
 > ceci est une citation
 

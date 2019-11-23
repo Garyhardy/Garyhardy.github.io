@@ -40,6 +40,10 @@ You will find here all materials related to SAP workload migration to Azure.
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage
 
+## Automation
+
+<https://azure.microsoft.com/en-us/blog/automating-sap-deployments-in-microsoft-azure-using-terraform-and-ansible/>
+
 ## SAP notes to read
 
 | number | what is inside |

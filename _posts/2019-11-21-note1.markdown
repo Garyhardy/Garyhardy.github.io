@@ -65,13 +65,13 @@ https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 
 ## SAP related SAP notes to read
 
-SAP Note 1793345 - Sizing for SAP Suite on HANA
-SAP Note 1872170 - Suite on HANA and S/4 HANA sizing report
-SAP Note 2121330 - FAQ: SAP BW on HANA Sizing Report
-SAP Note 1736976 - Sizing Report for BW on HANA
-SAP Note 2296290 - New Sizing Report for BW on HANA
+* SAP Note 1793345 - Sizing for SAP Suite on HANA
+* SAP Note 1872170 - Suite on HANA and S/4 HANA sizing report
+* SAP Note 2121330 - FAQ: SAP BW on HANA Sizing Report
+* SAP Note 1736976 - Sizing Report for BW on HANA
+* SAP Note 2296290 - New Sizing Report for BW on HANA
 
-> ceci est une citation
+> I'm not sure that sap notes are freely available, you will need to have a s-user for downloading the sap notes from the SAP portal.
 
 ## Study fields
 

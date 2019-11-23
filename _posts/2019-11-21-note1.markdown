@@ -32,6 +32,10 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://azure.microsoft.com/mediahandler/files/resourcefiles/migration-methodologies-for-sap-on-azure/Migration%20Methodologies%20for%20SAP%20on%20Azure.pdf>
 
+## Architecture diagrams
+
+<https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-s4hana>
+
 ## Storage specifications
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage

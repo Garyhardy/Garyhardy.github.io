@@ -47,6 +47,11 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/hana-large-instances>
 
+## Availability considerations
+
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-higher-availability-architecture-scenarios>
+
+
 ## Storage specifications
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage

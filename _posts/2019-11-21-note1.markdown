@@ -74,10 +74,7 @@ https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 | 2178632 | to add |
 | 1999351 | to add |
 | 2287140 | to add |
-| 2243692 | to add |
-| 1984787 | to add |
-| 2002167 | to add |
-| 2069760 | to add |
+| 2243692 | SAP license issue on linux VMs |
 
 ## SAP related SAP notes to read
 
@@ -86,6 +83,10 @@ https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 * SAP Note 2121330 - FAQ: SAP BW on HANA Sizing Report
 * SAP Note 1736976 - Sizing Report for BW on HANA
 * SAP Note 2296290 - New Sizing Report for BW on HANA
+* SAP Note 1984787 - SLES 12 installation
+* SAP Note 2002176 - RHEL 7 installation
+* SAP Note 2069760 - Oracle Linux 7 installation
+
 
 > I'm not sure that sap notes are freely available, you will need to have a s-user for downloading the sap notes from the SAP portal.
 

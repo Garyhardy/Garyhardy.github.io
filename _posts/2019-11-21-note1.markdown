@@ -54,7 +54,7 @@ You will find here all materials related to SAP workload migration to Azure.
 
 ## Storage specifications
 
-https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage>
 
 ## Automation
 

@@ -71,7 +71,7 @@ https://github.com/AzureCAT-GSI/SAP-HANA-ARM
 | ------- | ------- |
 | 1928533 |  minimum OS releases supported on Azure VM. minimum database releases required for most non-HANA databases. SAP sizing for SAP-supported Azure VM types.|
 | 2015553 | supported products & Azure VM type |
-| 2178632 | to add |
+| 2178632 | SAP key monitoring metrics on Azure |
 | 1999351 | EA monitoring issues |
 | 2243692 | SAP license issue on linux VMs |
 

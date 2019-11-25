@@ -62,7 +62,7 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://cal.sap.com/catalog#/solutions>
 
-https://github.com/AzureCAT-GSI/SAP-HANA-ARM
+<https://github.com/AzureCAT-GSI/SAP-HANA-ARM>
 
 
 ## Azure related SAP notes to read

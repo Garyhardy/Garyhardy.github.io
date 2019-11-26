@@ -52,9 +52,12 @@ You will find here all materials related to SAP workload migration to Azure.
 <https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-higher-availability-architecture-scenarios>
 
 
-## Storage specifications
+## technical deep-dive
 
 <https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-vm-operations-storage>
+
+<https://docs.microsoft.com/en-us/azure/virtual-machines/windows/how-to-enable-write-accelerator>
+
 
 ## Automation
 

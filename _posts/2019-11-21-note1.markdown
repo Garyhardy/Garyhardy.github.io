@@ -64,6 +64,8 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://docs.microsoft.com/en-us/azure/virtual-machines/windows/how-to-enable-write-accelerator>
 
+<https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-connect-azure-vm-large-instances>
+
 
 ## Automation
 

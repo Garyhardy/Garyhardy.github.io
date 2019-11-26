@@ -75,7 +75,7 @@ You will find here all materials related to SAP workload migration to Azure.
 
 <https://github.com/AzureCAT-GSI/SAP-HANA-ARM>
 
-# Some exotism
+## Some exotism
 
 <https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/lama-installation>
 
